@@ -54,9 +54,11 @@
 
 ## Code
 
-
+[github](https://github.com/fja0kl/HandsNeuralWorks/tree/master/recsys/FM)
 
 ## Reference
 
+[jupyter版本](https://github.com/babakx/fm_tensorflow/blob/master/fm_tensorflow.ipynb)
 
+[简单易学的机器学习算法——因子分解机(Factorization Machine](https://blog.csdn.net/google19890102/article/details/45532745)
 

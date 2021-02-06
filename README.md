@@ -27,3 +27,9 @@ The Codes are mainly from Book: **[Deep-learning-with-python](https://www.pdfdri
 [论文&笔记](https://github.com/fja0kl/HandsNeuralWorks/tree/master/papers/CTR-Estimation/FM)
 
 [demos](https://github.com/fja0kl/HandsNeuralWorks/tree/master/recsys/FM)
+
+___
+
+
+
+![扫描公众号，一起交流讨论吧](http://note.youdao.com/yws/public/resource/0598dd3dfb0f1261a999086ba0e72e2f/xmlnote/WEBRESOURCE8ff06596a1a84f47bff700984c595c59/284)
