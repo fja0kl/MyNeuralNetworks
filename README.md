@@ -1,6 +1,12 @@
+[TOC]
+
 # HandsNeuralWorks
 
-内容主要包括两部分:project_demos和recsys.
+内容主要包括三部分:project_demos、recsys以及paper notes。
+
+- project_demos：主要内容为机器学习、深度学习的简单应用
+- recsys：主要内容为推荐系统、点击率预估模型
+- papers：推荐系统论文以及对应笔记整理
 
 ## project_demos
 
@@ -15,3 +21,9 @@ The Codes are mainly from Book: **[Deep-learning-with-python](https://www.pdfdri
 [争取一天一个模型,希望能坚持下来.]
 
 精韧不怠,日进有功.(高中班号,哈哈哈)
+
+### FM因子分解机
+
+[论文&笔记]()
+
+[demos]()
