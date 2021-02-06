@@ -42,6 +42,7 @@ def vectorize_dic(dic, ix=None, p=None, n=0, g=0):
     return csr.csr_matrix((data[ixx], (row_ix[ixx], col_ix[ixx])), shape=(n, p)), ix
 
 def batcher(X, y, batch_size=-1):
+    "训练数据生成器"
     n_samples = X.shape[0]
 
     if batch_size == -1:

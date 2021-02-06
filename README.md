@@ -24,6 +24,6 @@ The Codes are mainly from Book: **[Deep-learning-with-python](https://www.pdfdri
 
 ### FM因子分解机
 
-[论文&笔记]()
+[论文&笔记](https://github.com/fja0kl/HandsNeuralWorks/tree/master/papers/CTR-Estimation/FM)
 
-[demos]()
+[demos](https://github.com/fja0kl/HandsNeuralWorks/tree/master/recsys/FM)
